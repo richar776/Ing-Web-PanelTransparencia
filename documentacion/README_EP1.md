@@ -173,7 +173,7 @@ Por ello, la aplicación deberá ofrecer herramientas de administración intuiti
 En cuanto a seguridad, será necesario diferenciar los permisos de acceso según el rol del funcionario, resguardar la integridad de los registros y mantener mecanismos de trazabilidad que permitan identificar las modificaciones realizadas, su responsable y la fecha correspondiente.
 
 
-#Referencias
+# Referencias
 1. https://www.latercera.com/nacional/noticia/estudio-alerta-escasa-fiscalizacion-en-municipios-un-30-no-realizo-auditorias-en-el-ultimo-ano-y-tiene-solo-un-funcionario-en-esa-labor/USYQIMUYUZCRXP64JZPH37X3HQ/
 
 2. https://www.imaginaccion.cl/post/estudio-sobre-corrupci%C3%B3n-municipal-en-medios-44-comunas-se-llevan-la-atenci%C3%B3n
