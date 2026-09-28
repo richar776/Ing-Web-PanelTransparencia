@@ -2,8 +2,6 @@
 Plataforma Web y Móvil para mejorar la trazabilidad pública con los ciudadanos de la municipalidad de Santo Domingo
 
 ## Integrantes del equipo
-
-------------
 |  Nombre |  Rol en el proyecto |
 | :------------ | :------------ |
 |  Ricardo Pasten |  Frontend, Figma |
@@ -68,7 +66,3 @@ En este contexto, la Municipalidad de Santo Domingo enfrenta el desafío de comu
 
 ## Diseño y prototipo
 - [Prototipo en Figma](https://www.figma.com/design/MJbonacpaS2avT47w2sBir/Prototipos-web?node-id=0-1&t=9WCMGLor362sNRN4-1 "Prototipo en Figma")
-| RF6 | Ciudadano | Libre acceso para todos los ciudadanos a los documentos oficiales sobre gestiones municipales |
-| RF7 | Ciudadano | Generar tickets de auditorías ante cualquier anomalía o falta de detalle que se detecte |
-| RF8 | Funcionario | Gestionar un directorio con los documentos para respaldar o detallar cualquier clase de gasto, contrato o evento informado en la plataforma |
-| RF9 | Funcionario | Panel para administrar y responder los tickets de anomalías y consultas de la ciudadanía |
