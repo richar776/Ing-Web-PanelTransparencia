@@ -1,0 +1,7 @@
+{
+  "name": "panel-definitivo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
