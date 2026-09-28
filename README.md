@@ -1,8 +1,5 @@
 # Nombre del proyecto: CiudiAudi
-------------
 Plataforma Web y Móvil para mejorar la trazabilidad pública con los ciudadanos de la municipalidad de Santo Domingo
-
-------------
 
 ## Integrantes del equipo
 
@@ -14,8 +11,6 @@ Plataforma Web y Móvil para mejorar la trazabilidad pública con los ciudadanos
 
 ## Distribución de responsabilidades
 
-------------
-
 - Frontend (Ionic + React): estructura de vistas, componentes, navegación con React Router.
 - Figma: mockups móvil/web, flujo de navegación, jerarquía visual
 - Backend: API REST, base de datos relacional, autenticación JWT.
@@ -23,12 +18,9 @@ Plataforma Web y Móvil para mejorar la trazabilidad pública con los ciudadanos
 
 ## Descripción general
 
-------------
 CiudiAudi es una plataforma que permite a los ciudadanos de la municipalidad de Santo Domingo mantenerse informados sobre el tratamiento que se les dá a los recursos públicos de la comuna, ya sea para seguir el rastro de los recursos económicos que ingresen o se gasten, como también para saber sobre licitaciones, permisos, proyectos y contratos que la municipalidad administre con el tiempo
 
 ## Problema que aborda
-
-------------
 
 La administración de recursos públicos requiere mecanismos de fiscalización y transparencia que permitan fortalecer la confianza ciudadana. Sin embargo, muchas municipalidades cuentan con equipos de auditoría reducidos y presupuestos limitados, dificultando la supervisión de sus operaciones financieras [[antecedente]](https://www.latercera.com/nacional/noticia/estudio-alerta-escasa-fiscalizacion-en-municipios-un-30-no-realizo-auditorias-en-el-ultimo-ano-y-tiene-solo-un-funcionario-en-esa-labor/USYQIMUYUZCRXP64JZPH37X3HQ/ "[ref]"). A esto se suman los casos de corrupción municipal, que afectan la percepción pública sobre la gestión de las instituciones [[antecedente]](https://www.imaginaccion.cl/post/estudio-sobre-corrupci%C3%B3n-municipal-en-medios-44-comunas-se-llevan-la-atenci%C3%B3n "[antecedente]").
 
@@ -37,8 +29,6 @@ En este contexto, la Municipalidad de Santo Domingo enfrenta el desafío de comu
 ###### Para mas detalles sobre el problema y los usuarios involucrados ingrese [aquí](https://github.com/richar776/Ing-Web-PanelTransparencia/blob/master/documentacion/README_EP1.md "aquí")
 
 ## Objetivos del proyecto
-
-------------
 
 - Centralizar la información financiera municipal
 - Facilitar la comprensión de la gestión financiera
